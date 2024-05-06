@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is a self-taught guy who is interested in programming and hopes to communicate with you.👯
 
 <!--
 **Marvin2974/Marvin2974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
